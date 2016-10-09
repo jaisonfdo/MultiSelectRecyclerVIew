@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiSelect</string>
+
+    <string name="menu_item_exit">Exit</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_edit">Edit</string>
+    <string name="menu_item_delete">Delete</string>
+
+</resources>
